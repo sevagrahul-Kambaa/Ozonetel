@@ -10,7 +10,7 @@ httptools==0.6.4
 idna==3.10
 openai==1.58.1
 packaging==25.0
-pydantic==2.11.9
+pydantic==1.10.13
 pydantic_core==2.33.2
 python-multipart==0.0.20
 requests==2.32.5
